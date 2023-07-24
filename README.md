@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Palacios</h1>
 <h3 align="center">Fond of programming and new technologies, quite critical in the process and fast learner.</h3>
 
-- 🌱 I’m currently learning **Technologist in analysis and development of information systems**
+- 🌱 I’m currently learning: **systems engineers**
 
-- 📫 How to reach me **felipepalacios11111@gmail.com**
+- 📫 How to reach me: **felipepalacios11111@gmail.com**
 
-- ⚡ Fun fact **Soy muy proactivo y social, me fascina el constante aprendizaje**
+- ⚡ Fun fact:  **Soy muy proactivo y social, me fascina el constante aprendizaje**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
