@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Palacios</h1>
 <h3 align="center">Fond of programming and new technologies, quite critical in the process and fast learner.</h3>
 
-- 🌱 I’m currently learning: **systems engineers**
+- 🌱 I’m currently learning: **system engineer**
 
 - 📫 How to reach me: **felipepalacios11111@gmail.com**
 
